@@ -6,12 +6,12 @@ module.exports = {
     execute(message,args) {
         const qst = [
             "frist question are you man or woman?",
-            "second question how olld are you?",
+            "second question how old are you?",
             "third question what is your wirght?(in kg plz)",
             "fourth question what is your height?(in m plz)"
         ]
         const info_user=[" "," "," "," "];
-        message.channel.send('hello my frind i will try to calculat how much of calories you have to eat in th day\n but you have to answer some questions.');
+        message.channel.send('hello my frind i will try to calculate how much of calories you have to eat in the day\n but you have to answer some questions.');
         let conter=0;
         let conter2=0
         const filter = m => m.author.id === message.author.id;
