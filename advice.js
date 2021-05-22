@@ -1,3 +1,4 @@
+//this is not gonna work cuz the ipa is private 
 const fetch = require("node-fetch")
 module.exports = {
 	name: 'advice1',
