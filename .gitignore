@@ -1,0 +1,4 @@
+//to automaticcaly ignore those files from sharing
+node_modules
+.env
+config.json
