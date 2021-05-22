@@ -1,3 +1,4 @@
+//?calories
 const DiscordJs = require(discord.js);
 module.exports = {
     name: 'calories',
