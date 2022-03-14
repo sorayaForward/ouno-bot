@@ -3,4 +3,4 @@ This is our discord bot called ouno that my team and I have been working on duri
 
 ### Find us here 🔥 : https://devpost.com/software/ouno-discord-bot?ref_content=user-portfolio&ref_feature=in_progress
 
-Bon repo mazalo chwya ta3dilat nevermind about that plz hh
+whenever who u're, repo mazalo chwya ta3dilat Don't rmind about that plz hh
